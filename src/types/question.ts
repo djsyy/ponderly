@@ -1,4 +1,4 @@
 export type Question = {
-  id: string
-  text: string
-}
+  id: string;
+  text: string;
+};
